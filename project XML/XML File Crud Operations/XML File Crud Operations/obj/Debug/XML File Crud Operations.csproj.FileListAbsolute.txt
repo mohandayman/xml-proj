@@ -1,0 +1,22 @@
+F:\(.Net Core) Projects\Projects\ITI_LABS\XML File Crud Operations\XML File Crud Operations\bin\Debug\XML File Crud Operations.exe.config
+F:\(.Net Core) Projects\Projects\ITI_LABS\XML File Crud Operations\XML File Crud Operations\bin\Debug\XML File Crud Operations.exe
+F:\(.Net Core) Projects\Projects\ITI_LABS\XML File Crud Operations\XML File Crud Operations\bin\Debug\XML File Crud Operations.pdb
+F:\(.Net Core) Projects\Projects\ITI_LABS\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.csproj.AssemblyReference.cache
+F:\(.Net Core) Projects\Projects\ITI_LABS\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.csproj.SuggestedBindingRedirects.cache
+F:\(.Net Core) Projects\Projects\ITI_LABS\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML_File_Crud_Operations.CrudForm.resources
+F:\(.Net Core) Projects\Projects\ITI_LABS\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML_File_Crud_Operations.Properties.Resources.resources
+F:\(.Net Core) Projects\Projects\ITI_LABS\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.csproj.GenerateResource.cache
+F:\(.Net Core) Projects\Projects\ITI_LABS\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.csproj.CoreCompileInputs.cache
+F:\(.Net Core) Projects\Projects\ITI_LABS\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.exe
+F:\(.Net Core) Projects\Projects\ITI_LABS\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.pdb
+C:\Users\mohand\Desktop\XML File Crud Operations\XML File Crud Operations\XML File Crud Operations\bin\Debug\XML File Crud Operations.exe.config
+C:\Users\mohand\Desktop\XML File Crud Operations\XML File Crud Operations\XML File Crud Operations\bin\Debug\XML File Crud Operations.exe
+C:\Users\mohand\Desktop\XML File Crud Operations\XML File Crud Operations\XML File Crud Operations\bin\Debug\XML File Crud Operations.pdb
+C:\Users\mohand\Desktop\XML File Crud Operations\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.csproj.AssemblyReference.cache
+C:\Users\mohand\Desktop\XML File Crud Operations\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohand\Desktop\XML File Crud Operations\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML_File_Crud_Operations.CrudForm.resources
+C:\Users\mohand\Desktop\XML File Crud Operations\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML_File_Crud_Operations.Properties.Resources.resources
+C:\Users\mohand\Desktop\XML File Crud Operations\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.csproj.GenerateResource.cache
+C:\Users\mohand\Desktop\XML File Crud Operations\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.csproj.CoreCompileInputs.cache
+C:\Users\mohand\Desktop\XML File Crud Operations\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.exe
+C:\Users\mohand\Desktop\XML File Crud Operations\XML File Crud Operations\XML File Crud Operations\obj\Debug\XML File Crud Operations.pdb

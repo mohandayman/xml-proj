@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Company>
+  <Employee>
+    <Name>mohand</Name>
+    <Phone>01212046990</Phone>
+    <Address>bahary,alex</Address>
+    <Email>mohand0127@xyz.com</Email>
+  </Employee>
+  <Employee>
+    <Name>hossam</Name>
+    <Phone>23</Phone>
+    <Address>sidib4r</Address>
+    <Email>hs@gmil.com</Email>
+  </Employee>
+  <Employee>
+    <Name>wegz</Name>
+    <Phone>404</Phone>
+    <Address>alex</Address>
+    <Email>hack@test.com</Email>
+  </Employee>
+  <Employee>
+    <Name>skldf</Name>
+    <Phone>01234567892387979897</Phone>
+    <Address>amerisdfdsfca</Address>
+    <Email>new@new.com</Email>
+  </Employee>
+</Company>
